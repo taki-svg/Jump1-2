@@ -1,2 +1,2 @@
 # Jump1-2
-A platform game with gun,coin and health mechanics.
+A 2D platform game with gun,coin and health mechanics.
